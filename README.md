@@ -65,7 +65,7 @@ To run the AI Whisky Recommender, follow these steps:
    ![Screen 2](images/2.png)
 
 ## Video Demo
-   [Watch tthe video demo on YouTube](https://www.youtube.com/watch?v=rhJJGcgkI5M)
+   [Watch the video demo on YouTube](https://www.youtube.com/watch?v=rhJJGcgkI5M)
 
 ---
 
