@@ -64,6 +64,9 @@ To run the AI Whisky Recommender, follow these steps:
 
    ![Screen 2](images/2.png)
 
+## Video Demo
+[Watch this awesome video on YouTube](https://www.youtube.com/watch?v=rhJJGcgkI5M)
+
 ---
 
 Enjoy discovering new whiskies and enhancing your collection with **Bob** — your AI-powered whisky concierge! 🥃
